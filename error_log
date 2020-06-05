@@ -1,0 +1,443 @@
+[03-Jun-2019 19:05:39 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:06:26 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:06:28 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:09:21 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:09:27 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:09:52 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:09:53 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:09:55 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:09:55 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:10:42 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:12:45 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[03-Jun-2019 19:13:13 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/qzoxekri/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/qzoxekri/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/qzoxekri/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/qzoxekri/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/qzoxekri/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/qzoxekri/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/qzoxekri/public_html/application/controllers/login.php(14): CI_Controller->__construct()
+#7 /home/qzoxekri/public_html/system/core/CodeIgniter.php(308): Login->__construct()
+#8 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#9 {main}
+  thrown in /home/qzoxekri/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[04-Jun-2019 14:42:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 14:43:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 14:43:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan('1')
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once(' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 15:02:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan('1')
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once(' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 15:04:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 15:04:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 19:46:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan('1')
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once(' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:14:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:18:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:23:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:24:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:28:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:29:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 20:35:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 21:12:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 21:13:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 21:14:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 21:34:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//Windows7-PC/printkasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/ in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 21:35:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//Windows7-PC/printkasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/ in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 21:35:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(644): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[04-Jun-2019 23:28:50 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/qzoxekri/public_html/application/controllers/pembayaran.php on line 431
+[04-Jun-2019 23:28:56 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/qzoxekri/public_html/application/controllers/pembayaran.php on line 431
+[04-Jun-2019 23:51:29 UTC] PHP Parse error:  syntax error, unexpected '$harga' (T_VARIABLE), expecting ',' or ';' in /home/qzoxekri/public_html/application/controllers/pemesanan.php on line 614
+[04-Jun-2019 23:51:31 UTC] PHP Parse error:  syntax error, unexpected '$harga' (T_VARIABLE), expecting ',' or ';' in /home/qzoxekri/public_html/application/controllers/pemesanan.php on line 614
+[04-Jun-2019 23:51:33 UTC] PHP Parse error:  syntax error, unexpected '$harga' (T_VARIABLE), expecting ',' or ';' in /home/qzoxekri/public_html/application/controllers/pemesanan.php on line 614
+[04-Jun-2019 23:52:17 UTC] PHP Parse error:  syntax error, unexpected '$harga' (T_VARIABLE), expecting ',' or ';' in /home/qzoxekri/public_html/application/controllers/pemesanan.php on line 614
+[05-Jun-2019 00:00:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(691): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:25:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(691): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:31:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(691): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:31:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(691): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:32:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(692): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:33:15 UTC] PHP Fatal error:  Uncaught exception 'BadMethodCallException' with message 'Printer 'smb:\localhost\Printer Kasir' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:155
+Stack trace:
+#0 /home/qzoxekri/public_html/application/controllers/pemesanan.php(640): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('smb:\\localhost\\...')
+#1 [internal function]: Pemesanan->cetak_pesanan()
+#2 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#4 {main}
+  thrown in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 155
+[05-Jun-2019 00:33:18 UTC] PHP Fatal error:  Uncaught exception 'BadMethodCallException' with message 'Printer 'smb:\localhost\Printer Kasir' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:155
+Stack trace:
+#0 /home/qzoxekri/public_html/application/controllers/pemesanan.php(640): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('smb:\\localhost\\...')
+#1 [internal function]: Pemesanan->cetak_pesanan()
+#2 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#4 {main}
+  thrown in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 155
+[05-Jun-2019 00:36:27 UTC] PHP Fatal error:  Uncaught exception 'BadMethodCallException' with message 'Printer 'smb:\localhost\Printer Kasir' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:155
+Stack trace:
+#0 /home/qzoxekri/public_html/application/controllers/pemesanan.php(640): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('smb:\\localhost\\...')
+#1 [internal function]: Pemesanan->cetak_pesanan()
+#2 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#4 {main}
+  thrown in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 155
+[05-Jun-2019 00:36:29 UTC] PHP Fatal error:  Uncaught exception 'BadMethodCallException' with message 'Printer 'smb:\localhost\Printer Kasir' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:155
+Stack trace:
+#0 /home/qzoxekri/public_html/application/controllers/pemesanan.php(640): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('smb:\\localhost\\...')
+#1 [internal function]: Pemesanan->cetak_pesanan()
+#2 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#4 {main}
+  thrown in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 155
+[05-Jun-2019 00:36:30 UTC] PHP Fatal error:  Uncaught exception 'BadMethodCallException' with message 'Printer 'smb:\localhost\Printer Kasir' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:155
+Stack trace:
+#0 /home/qzoxekri/public_html/application/controllers/pemesanan.php(640): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('smb:\\localhost\\...')
+#1 [internal function]: Pemesanan->cetak_pesanan()
+#2 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#4 {main}
+  thrown in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 155
+[05-Jun-2019 00:36:31 UTC] PHP Fatal error:  Uncaught exception 'BadMethodCallException' with message 'Printer 'smb:\localhost\Printer Kasir' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:155
+Stack trace:
+#0 /home/qzoxekri/public_html/application/controllers/pemesanan.php(640): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('smb:\\localhost\\...')
+#1 [internal function]: Pemesanan->cetak_pesanan()
+#2 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/qzoxekri/public_html/index.php(214): require_once('/home/qzoxekri/...')
+#4 {main}
+  thrown in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 155
+[05-Jun-2019 00:37:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/qzoxekri/public_html/application/controllers/pemesanan.php on line 107
+[05-Jun-2019 00:37:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! PESA...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pemesanan.php(691): Mike42\Escpos\Printer->close()
+#3 [internal function]: Pemesanan->cetak_pesanan()
+#4 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/qzoxekri/public_html/index.php(214): require_once('/ho in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:43:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! KNT ...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pembayaran.php(504): Mike42\Escpos\Printer->close()
+#3 /home/qzoxekri/public_html/application/controllers/pembayaran.php(159): Pembayaran->cetak_struk(15)
+#4 [internal function]: Pembayaran->ajax_add()
+#5 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359) in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:51:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! KNT ...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pembayaran.php(504): Mike42\Escpos\Printer->close()
+#3 /home/qzoxekri/public_html/application/controllers/pembayaran.php(159): Pembayaran->cetak_struk(16)
+#4 [internal function]: Pembayaran->ajax_add()
+#5 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359) in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[05-Jun-2019 00:53:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to print. Command "smbclient '//optimus.hoster.co.id/Printer Kasir' -c 'print -' -N" failed with exit code -1: ' in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\e@\n\ea\x01\e! KNT ...')
+#1 /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/qzoxekri/public_html/application/controllers/pembayaran.php(504): Mike42\Escpos\Printer->close()
+#3 /home/qzoxekri/public_html/application/controllers/pembayaran.php(159): Pembayaran->cetak_struk(17)
+#4 [internal function]: Pembayaran->ajax_add()
+#5 /home/qzoxekri/public_html/system/core/CodeIgniter.php(359) in /home/qzoxekri/public_html/application/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
